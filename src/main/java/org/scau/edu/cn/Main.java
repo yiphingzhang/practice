@@ -13,5 +13,7 @@ public class Main {
             // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
             System.out.println("i = " + i);
         }
+
+        System.out.println("this is a new version for new branch tntr-933");
     }
 }
